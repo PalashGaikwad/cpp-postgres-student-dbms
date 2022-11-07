@@ -1,4 +1,9 @@
 // Developed By Palash Gaikwad
+// Dependencies:
+// https://github.com/jtv/libpqxx
+// https://www.postgresql.org/download/linux/
+
+
 #include <string>
 #include <iostream>
 #include <pqxx/pqxx>
